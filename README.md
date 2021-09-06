@@ -1,4 +1,8 @@
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=dominique-mueller&show_icons=true&count_private=true&hide_rank=true&custom_title=GitHub Stats&theme=tokyonight" alt="" height="200rem" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominique-mueller&layout=compact&theme=tokyonight" alt="" height="200rem" />
-</div>
+Hi, I am a **Web Developer** based in Frankfurt am Main (Germany), passionate about developing visually appealing, user friendly and accessible websites and web applications.
+
+I work a lot with:
+
+- :wrench: HTML & JSX, CSS & SASS, JavaScript & TypeScript
+- :star: React & Angular, RxJS, Jest & Jasmine, Cypress
+- :eyes: User Experience, Usability, Visual Design, Accessibility, Performance
+- :briefcase: Git, CI / CD, SCRUM & Kanban

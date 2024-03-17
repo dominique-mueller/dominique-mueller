@@ -2,7 +2,7 @@ Hi, I am a **Web Developer** based in Frankfurt am Main (Germany), passionate ab
 
 I work a lot with:
 
-- :triangular_ruler: Markup (HTML, JSX) · Styling (CSS, SASS, JSS, Tailwind) · Language (JavaScript, TypeScript)
+- :triangular_ruler: Markup (HTML, JSX) · Styling (CSS, SASS, JSS, Tailwind) · Programing Languages (JavaScript, TypeScript)
 - :star2: React & Next.js · Angular · Vue.js & Nuxt
 - :hammer: Unit & Integration Testing (Jest, Jasmine) · End-to-End Testing (Cypress, Playwright, Puppeteer)
 - :heart: User Experience (Usability, Visual Design, Accessibility, Performance)

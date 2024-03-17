@@ -1,4 +1,4 @@
-Hi, I am a **Web Developer** based in Frankfurt am Main (Germany), passionate about developing visually appealing, user friendly and accessible websites and web applications.
+Hi, I am a **Web Developer** based in Frankfurt am Main (Germany), passionate about developing visually appealing, user friendly and accessible websites and web applications, libraries and design systems.
 
 I work a lot with:
 
